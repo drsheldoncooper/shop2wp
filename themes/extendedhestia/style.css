@@ -1,0 +1,63 @@
+/**
+* Theme Name: Extended Hestia
+* Template: hestia
+*/
+
+@import url('../hestia/style.css');
+
+/* Для каталога */
+.card-image img {
+    max-height: 300px!important;
+    max-width: 265px!important;
+    height: auto!important;
+    width: auto!important;
+}
+.card-image {
+    display: flex;
+    justify-content: center;
+}
+
+/* Для товара */
+
+.woocommerce-product-gallery .flex-viewport {
+    max-height: 500px;
+}
+
+.woocommerce-product-gallery .flex-viewport .flex-active-slide a {
+    display: flex;
+    justify-content: center;
+}
+
+.woocommerce div.product div.images img {
+    width: auto!important;
+    max-height: 500px;
+    max-width: 100%;
+}
+
+/* форма */
+.pirate_forms_wrap {
+	box-shadow: -1px 2px 17px 2px rgba(0,0,0,0.53);
+	border-radius: 8px;
+	margin-top: -40px;
+}
+
+/* лого */
+.navbar .navbar-brand img {
+	border-radius: 50%;
+}
+
+p.forms {
+	background-color: #0097ce;
+	padding: 20px;
+	width: 100%;
+	color: white;
+	font-size: 20px;
+	font-width: bold;
+	border-radius: 8px;
+	text-align: center;
+}
+
+.pirate_forms_wrap .pirate-forms-footer .form_field_wrap.contact_submit_wrap {
+    width: 100%;
+    text-align: left;
+}

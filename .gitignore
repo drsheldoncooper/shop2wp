@@ -1,0 +1,10 @@
+# WP Core
+upgrade/
+.idea/
+node_modules/
+
+# Project
+uploads/
+logs/
+vendor/
+package-lock.json

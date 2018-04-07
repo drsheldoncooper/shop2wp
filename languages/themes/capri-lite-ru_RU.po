@@ -1,0 +1,470 @@
+# Translation of Themes - Capri Lite in Russian
+# This file is distributed under the same license as the Themes - Capri Lite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-01-24 13:54:54+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Capri Lite\n"
+
+#. Theme Name of the plugin/theme
+msgid "Capri Lite"
+msgstr "Capri Lite"
+
+#. Description of the plugin/theme
+msgid "Capri Lite is a clean, elegant WordPress theme, perfect for building an one page online store with minimal effort. WooCommerce ready, live Customizer, WPML compatibility, contact form integration, and quality support are just some of features that make Capri Lite the best choice for your site."
+msgstr "Capri Lite — это чистая, элегантная тема WordPress, идеально подходящая для создания интернет-магазина на одной странице с минимальными усилиями. Подготовлена к WooCommerce, управляется с помощью Настройщика, совместима с WPML, поддерживает интеграцию контактной формы и имеет качественную поддержку — это лишь некоторые из возможностей, которые делают Capri Lite лучшим выбором для вашего сайта."
+
+#: template-parts/content-page.php:29 template-parts/content-search.php:55
+#: template-parts/content.php:73
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: template-parts/content-none.php:16
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: single.php:31
+msgid "Next Post"
+msgstr "Следующая запись"
+
+#: single.php:30
+msgid "Prev Post"
+msgstr "Предыдущая запись"
+
+#: inc/woocommerce/functions.php:584 inc/woocommerce/functions.php:586
+#: inc/woocommerce/functions.php:591 inc/woocommerce/functions.php:593
+msgid "Continue Shopping"
+msgstr "Продолжить покупки"
+
+#: inc/woocommerce/functions.php:586 inc/woocommerce/functions.php:593
+msgid "View Cart"
+msgstr "Посмотреть корзину"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:53 inc/template-tags.php:56
+msgid ", "
+msgstr ", "
+
+#: inc/woocommerce/functions.php:92
+msgid "Next page"
+msgstr "Следующая страница"
+
+#: inc/woocommerce/functions.php:91
+msgid "Prev page"
+msgstr "Предыдущая страница"
+
+#: inc/ribbon-widget/class-capri-ribbon-widget.php:167
+msgid "Image"
+msgstr "Изображение"
+
+#: inc/ribbon-widget/class-capri-ribbon-widget.php:159
+msgid "Button link"
+msgstr "Ссылка кнопки"
+
+#: inc/ribbon-widget/class-capri-ribbon-widget.php:151
+msgid "Button text"
+msgstr "Текст кнопки"
+
+#: inc/ribbon-widget/class-capri-ribbon-widget.php:143
+msgid "Text"
+msgstr "Текст"
+
+#: inc/ribbon-widget/class-capri-ribbon-widget.php:198
+msgid "Upload Image"
+msgstr "Загрузить изображение"
+
+#: inc/ribbon-widget/class-capri-ribbon-widget.php:190
+msgid "Uploaded image"
+msgstr "Загруженное изображение"
+
+#: inc/customizer-pro/customizer-theme-info.php:48
+msgid "Support"
+msgstr "Поддержка"
+
+#: inc/customizer-pro/customizer-theme-info.php:24
+#: inc/customizer-pro/customizer-theme-info.php:52
+msgid "View PRO version"
+msgstr "Посмотреть PRO версию"
+
+#: header.php:70
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: header.php:99
+msgid "Your Cart"
+msgstr "Ваша корзина"
+
+#: functions.php:378
+msgid "Comment"
+msgstr "Комментарий"
+
+#: functions.php:356 inc/woocommerce/functions.php:463
+msgid "Email"
+msgstr "Email"
+
+#: functions.php:351 inc/woocommerce/functions.php:461
+#: inc/woocommerce/functions.php:462
+msgid "Name"
+msgstr "Имя"
+
+#. translators: %s is WordPress name
+#: footer.php:65 inc/customizer.php:82
+msgid "WordPress"
+msgstr "WordPress"
+
+#: comments.php:99
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: comments.php:57 comments.php:81
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#: archive.php:59 index.php:72 search.php:57
+msgid "Page"
+msgstr "Страница"
+
+#. translators: $s is link to new post
+#: template-parts/content-none.php:27
+msgid "Ready to publish your first post? %s."
+msgstr "Готовы опубликовать свою первую запись? %s."
+
+#: inc/woocommerce/functions.php:464
+msgid "Email Address"
+msgstr "Email адрес"
+
+#. translators: %1$s is tags list
+#: inc/template-tags.php:68
+msgid "tagged: %1$s"
+msgstr "метки: %1$s"
+
+#: inc/woocommerce/functions.php:477
+msgid "Your review"
+msgstr "Ваш отзыв"
+
+#: inc/woocommerce/functions.php:474
+msgid "Very poor"
+msgstr "Очень плохо"
+
+#: inc/woocommerce/functions.php:473
+msgid "Not that bad"
+msgstr "Не так уж плохо"
+
+#: inc/woocommerce/functions.php:472
+msgid "Average"
+msgstr "Средне"
+
+#: inc/woocommerce/functions.php:471
+msgid "Good"
+msgstr "Хорошо"
+
+#: inc/woocommerce/functions.php:470
+msgid "Perfect"
+msgstr "Отлично"
+
+#. translators: %s is Search query
+#: inc/extras.php:119
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#: inc/customizer-page-editor/class/class-capri-page-editor.php:84
+msgid "Change Image"
+msgstr "Изменить изображение"
+
+#: inc/customizer-page-editor/class/class-capri-page-editor.php:83
+msgid "Remove"
+msgstr "Удалить"
+
+#: header.php:98
+msgid "View your shopping cart"
+msgstr "Посмотреть вашу корзину"
+
+#: header.php:26
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: functions.php:361
+msgid "Website"
+msgstr "Веб-сайт"
+
+#: functions.php:253
+msgctxt "Arimo font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:252
+msgctxt "Bitter font: on or off"
+msgid "on"
+msgstr "off"
+
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:42
+msgid "Edit %s"
+msgstr "Редактировать %s"
+
+#. translators: %s: Name of current post.
+#: template-parts/content-search.php:42 template-parts/content.php:60
+msgid "Continue reading %s"
+msgstr "Продолжить чтение %s"
+
+#: inc/customizer-pro/customizer-theme-info.php:47
+msgid "WPML/Polylang compatibility"
+msgstr "Совместимость с WPML/Polylang"
+
+#: inc/customizer-pro/customizer-theme-info.php:46
+msgid "About frontpage section"
+msgstr "Раздел «О нас» на главной странице"
+
+#: inc/customizer-pro/customizer-theme-info.php:45
+msgid "Special offers frontpage section"
+msgstr "Раздел «Специальные предложения» на главной странице"
+
+#: inc/customizer-pro/customizer-theme-info.php:44
+msgid "Categories frontpage section"
+msgstr "Раздел «Рубрики» на главной странице"
+
+#: inc/customizer-pro/customizer-theme-info.php:43
+msgid "Featured products frontpage section"
+msgstr "Раздел «Рекомендуемые товары» на главной странице"
+
+#: inc/customizer.php:36
+msgid "Frontpage Sections"
+msgstr "Разделы главной"
+
+#: inc/customizer-pro/customizer-theme-info.php:42
+msgid "Big title frontpage section"
+msgstr "Раздел «Большой заголовок» на главной странице"
+
+#: inc/customizer-page-editor/class/class-capri-page-editor.php:82
+msgid "About background"
+msgstr "Фон «О нас»"
+
+#. translators: %s is next text
+#: image.php:114
+msgid "Next"
+msgstr "Следующее"
+
+#. translators: %s is previous text
+#: image.php:108
+msgid "Previous"
+msgstr "Предыдущее"
+
+#. translators: %1$s is post title
+#. translators: %1$s is categories list
+#: image.php:79 inc/template-tags.php:63
+msgid "posted under: %1$s"
+msgstr "рубрики: %1$s"
+
+#: image.php:71
+msgid "Full resolution"
+msgstr "Полное разрешение"
+
+#. translators: %1$s is attachment url, %2$s is attachment title, %3$s is full
+#. resolution, %4$s is image width, %5$s is image height
+#: image.php:70
+msgid "Link to full-size image"
+msgstr "Ссылка на полноразмерное изображение"
+
+#. translators: %1$s is date attribute, %2$s is date
+#: image.php:45
+msgid "<span class=\"attachment-meta\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time>"
+msgstr "<span class=\"attachment-meta\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time>"
+
+#: inc/customizer.php:62
+msgid "Footer"
+msgstr "Подвал"
+
+#: inc/customizer.php:68 inc/customizer.php:91
+msgid "Copyright"
+msgstr "Авторские права"
+
+#: inc/customizer.php:50
+msgid "Blog Title"
+msgstr "Заголовок блога"
+
+#: inc/ribbon-widget/class-capri-ribbon-widget.php:135
+msgid "Title"
+msgstr "Заголовок"
+
+#: inc/extras.php:212
+msgid "Add a menu"
+msgstr "Добавить меню"
+
+#: inc/customizer.php:399
+msgid "Edit this section title in Customizer"
+msgstr "Редактировать заголовок этого раздела в Настройщике"
+
+#: functions.php:181
+msgid "Sidebar Shop"
+msgstr "Боковая панель магазина"
+
+#. translators: %d is Footer id
+#: functions.php:168
+msgid "Footer %d"
+msgstr "Подвал %d"
+
+#: functions.php:155
+msgid "Sidebar"
+msgstr "Боковая панель"
+
+#: functions.php:82
+msgid "Primary"
+msgstr "Основное"
+
+#. translators: %s is Theme link
+#: footer.php:63 inc/customizer.php:80
+msgid "CAPRI"
+msgstr "CAPRI"
+
+#. translators: $1%s: Theme link, %2$s WordPress link
+#. translators: %1$s: Theme link, %2$s: WordPress link
+#: footer.php:61 inc/customizer.php:78
+msgid "%1$s | Powered by %2$s"
+msgstr "%1$s | Работает на %2$s"
+
+#: archive.php:58 index.php:71 search.php:56
+msgid "Older posts"
+msgstr "Старые записи"
+
+#: archive.php:57 index.php:70 search.php:55
+msgid "Newer posts"
+msgstr "Новые записи"
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Упс! Эта страница не найдена."
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Похоже, что здесь ничего нет. Попробуете поискать?"
+
+#. translators: %s: post title
+#: comments.php:37
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Один комментарий к &ldquo;%s&rdquo;"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий к &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария к &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев к &ldquo;%2$s&rdquo;"
+
+#: comments.php:61 comments.php:85
+msgid "Newer Comments"
+msgstr "Новые комментарии"
+
+#: comments.php:60 comments.php:84
+msgid "Older Comments"
+msgstr "Старые комментарии"
+
+#. translators: %s: Name of current post
+#: functions.php:225
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Продолжить чтение<span class=\"screen-reader-text\"> «%s»</span>"
+
+#: inc/customizer.php:37
+msgid "Drag and drop panels to change sections order."
+msgstr "Перетащите панели, чтобы изменить порядок разделов."
+
+#: functions.php:296
+msgid "collapse child menu"
+msgstr "свернуть дочернее меню"
+
+#: functions.php:295
+msgid "expand child menu"
+msgstr "развернуть дочернее меню"
+
+#: inc/customizer.php:225
+msgid "Select category"
+msgstr "Выберите категорию"
+
+#: inc/customizer.php:245
+msgid "None"
+msgstr "Нет"
+
+#. translators: %1$s: is Link to new products
+#: inc/customizer.php:370
+msgid "There are no products to display. Click %1$s to add new products!"
+msgstr "Нет товаров для отображения. Щёлкните %1$s, чтобы добавить новые товары!"
+
+#. translators: %1$s is Url to new products , %2$s is New products text
+#: inc/customizer.php:375
+msgid "here"
+msgstr "здесь"
+
+#: inc/woocommerce/functions.php:205
+msgid "Post categories +"
+msgstr "Рубрики записи +"
+
+#: inc/woocommerce/functions.php:187
+msgid "Product categories +"
+msgstr "Категории товара +"
+
+#: inc/woocommerce/functions.php:468
+msgid "Your rating"
+msgstr "Ваша оценка"
+
+#: inc/woocommerce/functions.php:469
+msgid "Rate&hellip;"
+msgstr "Оценить&hellip;"
+
+#: inc/woocommerce/functions.php:477
+msgid "Written Review"
+msgstr "Напишите отзыв"
+
+#. translators: %s is post title
+#: inc/woocommerce/functions.php:482
+msgid "Add a review for: '%s'"
+msgstr "Добавить отзыв для: «%s»"
+
+#. translators: %s is post title
+#: inc/woocommerce/functions.php:487
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr "Оставьте первый отзыв на &ldquo;%s&rdquo;"
+
+#: inc/woocommerce/functions.php:584 inc/woocommerce/functions.php:586
+#: inc/woocommerce/functions.php:591 inc/woocommerce/functions.php:593
+msgid "has been added to your cart."
+msgstr "был добавлен в вашу корзину."
+
+#: template-parts/content-none.php:40
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, но ничего не найдено по вашим условиям поиска. Пожалуйста, попытайтесь снова с другими ключевыми словами."
+
+#. translators: %1$s is url to new post, %2$s is link label
+#: template-parts/content-none.php:32
+msgid "Get started here"
+msgstr "Начните здесь"
+
+#: template-parts/content-none.php:47
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Похоже, мы не можем найти то, что вы ищите. Возможно, поможет поиск."
+
+#: inc/ribbon-widget/class-capri-ribbon-widget.php:32
+msgid "Capri - Ribbon"
+msgstr "Лента Capri"
+
+#: functions.php:193
+msgid "Ribbon area"
+msgstr "Зона ленты"
+
+#. Author URI of the plugin/theme
+msgid "https://themeisle.com/"
+msgstr "https://themeisle.com/"
+
+#. Author of the plugin/theme
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Theme URI of the plugin/theme
+msgid "https://themeisle.com/themes/capri"
+msgstr "https://themeisle.com/themes/capri"

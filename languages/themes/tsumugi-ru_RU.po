@@ -1,0 +1,171 @@
+# Translation of Themes - tsumugi in Russian
+# This file is distributed under the same license as the Themes - tsumugi package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-08-30 09:10:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - tsumugi\n"
+
+#. Description of the plugin/theme
+msgid "tsumugi is a simple blog theme based on _s and Bootstrap. It consists of a single column layout which is suitable for mobile devices and tablets along with PCs. For it's readability and simplicity, this theme is user-friendly for everyone. (The name of \"tsumugi\" is inspired by the song of \"Hatsune\", a Japanese singer.)"
+msgstr "Tsumugi - простая тема блога, основанная на _s и Bootstrap. Это одно-колоночная тема, которая подходит для мобильных устройств, планшетов и ПК. Благодаря читаемости и простого дизайна эта тема удобна для всех. (Название «tsumugi» вдохновлено песней японской певицы «Hatsune».)"
+
+#. Theme Name of the plugin/theme
+msgid "tsumugi"
+msgstr "tsumugi"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:33
+msgid "Continue reading %s <span class=\"meta-nav\">&gt;</span>"
+msgstr "Читать дальше %s <span class=\"meta-nav\">&gt;</span>"
+
+#: template-parts/content-page.php:22 template-parts/content.php:38
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Похоже, этого не удалось найти. Попробуйте воспользоваться строкой поиска."
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+"Sorry, but nothing matched your search terms. Please try again with some different keywords.\n"
+"Извините, но по этому запросу ничего не найдено. Пожалуйста, попробуйте поискать снова по другим ключевым словам."
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свой первый пост? <a href=\"%1$s\">Начните отсюда</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Результаты поиска по: %s"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:71 template-parts/content-page.php:33
+msgid "Edit %s"
+msgstr "Правка %s"
+
+#: inc/template-tags.php:64
+msgid "% Comments"
+msgstr "% Комментариев"
+
+#: inc/template-tags.php:64
+msgid "1 Comment"
+msgstr "1 Комментарий"
+
+#: inc/template-tags.php:64
+msgid "Leave a comment"
+msgstr "Оставить комментарий"
+
+#: inc/template-tags.php:52 inc/template-tags.php:58
+msgid "%1$s"
+msgstr "%1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:50 inc/template-tags.php:56
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:33
+msgctxt "post author"
+msgid "%s"
+msgstr "%s"
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "%s"
+msgstr "%s"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Перейти к содержанию"
+
+#. translators: If there are characters in your language that are not supported
+#. by Source Sans Pro, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:136
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Annie Use Your Telescope, translate this to 'off'. Do not translate into
+#. your own language.
+#: functions.php:132
+msgctxt "Annie Use Your Telescope font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:110
+msgid "Sidebar"
+msgstr "Боковая панель"
+
+#: functions.php:47
+msgid "Primary"
+msgstr "Основное"
+
+#: footer.php:23
+msgid "Theme: %1$s by %2$s."
+msgstr "Тема: %1$s от %2$s."
+
+#: footer.php:21
+msgid "Proudly powered by %s"
+msgstr "Работает на %s"
+
+#: footer.php:21
+msgid "https://wordpress.org/"
+msgstr "https://ru.wordpress.org/"
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: comments.php:44 comments.php:65
+msgid "Newer Comments"
+msgstr "Свежие комментарии"
+
+#: comments.php:43 comments.php:64
+msgid "Older Comments"
+msgstr "Старые комментарии"
+
+#: comments.php:40 comments.php:61
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Один комментарий к &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария к &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев к &ldquo;%2$s&rdquo;"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Похоже, ничего не найдено. Попробуйте поискать в разделах меню или воспользуйтесь строкой поиска."
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ой. Такой страницы не существует."
+
+#. Theme URI of the plugin/theme
+msgid "http://littlebirdjp.github.io/tsumugi/"
+msgstr "http://littlebirdjp.github.io/tsumugi/"
+
+#. Author URI of the plugin/theme
+msgid "http://littlebird.mobi/"
+msgstr "http://littlebird.mobi/"
+
+#. Author of the plugin/theme
+msgid "youthkee"
+msgstr "youthkee"
