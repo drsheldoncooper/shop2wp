@@ -67,7 +67,7 @@ if ( ! function_exists( 'hestia_slider' ) ) :
 													if ( ! empty( $title ) ) :
 														$title = html_entity_decode( $title );
 														?>
-														<h1 class="hestia-title"><?php echo wp_kses_post( $title ); ?></h1>
+														<h1 class="hestia-title"><?php echo wp_kses_post( $title ); ?>!!</h1>
 													<?php endif; ?>
 													<?php
 													if ( ! empty( $subtitle ) ) :

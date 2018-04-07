@@ -3,7 +3,7 @@
 * Template: hestia
 */
 
-@import url('../hestia/style.css');
+@import url('./style_hestia.css');
 
 /* Для каталога */
 .card-image img {
