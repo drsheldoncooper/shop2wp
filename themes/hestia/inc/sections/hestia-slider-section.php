@@ -27,6 +27,7 @@ if ( ! function_exists( 'hestia_slider' ) ) :
 				the_custom_header_markup();
 			}
 			?>
+			Так что же это оно или нет?
 			<div class="carousel-inner">
 				<?php
 				$hestia_slider_alignment = get_theme_mod( 'hestia_slider_alignment', 'center' );
